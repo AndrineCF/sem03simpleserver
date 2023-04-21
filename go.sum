@@ -1,2 +1,6 @@
+github.com/AndrineCF/funtemps v0.0.0-20230327143738-500d9cf3d518 h1:Qf6kvZqiz7Q0tivG3CHW4pyNnXcfIo+rq9ga7g6liw8=
+github.com/AndrineCF/funtemps v0.0.0-20230327143738-500d9cf3d518/go.mod h1:t1XR83vrCOfaWRZ7s0nVBUv/OuLnQogv/3AyQF4Cqtk=
 github.com/AndrineCF/is105sem03 v0.0.0-20230417093516-2c4efcbf26ad h1:E3kdK0ZvjwxDVqvKEsWWjnrirIR9eZPzBOO+2K+2wHQ=
 github.com/AndrineCF/is105sem03 v0.0.0-20230417093516-2c4efcbf26ad/go.mod h1:bfo/g63nNKOlhL/UtUAHpOCEbe37njhArtEtDGW+zns=
+github.com/AndrineCF/minyr v0.0.0-20230411120009-786cc0f0940c h1:QktEIyyeEjWctSh80K2EbE51Sjt4GVqtenLu/7JDlHE=
+github.com/AndrineCF/minyr v0.0.0-20230411120009-786cc0f0940c/go.mod h1:PrqHHeDS3OUdR0SvpicF+p7Eb9YySIom4ZwP71Gpgz8=
